@@ -1,10 +1,7 @@
 ### Thank you for checking out my repositories! :D 👋
 
 - 🔭 Really good in Python, but I know HTML5/CSS3/WEB3.
-- 🌱 Learning Javascript, SQL, BASH.
-- 😄 Languages Spoken: English
-- ⚡ Fun fact: I love video games! ^.-
-- ❤️ Go stalk me @cth1155yahoo.
+- 🌱 Learning Javascript, SQL, BASH, Java
 
 ##
 <div>
