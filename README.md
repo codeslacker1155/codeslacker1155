@@ -1,7 +1,7 @@
 ### Thank you for checking out my repositories! :D 👋
 
-- 🔭 Really good in Python, but I know HTML5/CSS3/WEB3.
-- 🌱 Learning Javascript, SQL, BASH, Java
+- 🔭 Party in the backend, business in the front.
+- 🌱 Learning Solidity, RUST, MERN, etc.
 
 ##
 <div>
